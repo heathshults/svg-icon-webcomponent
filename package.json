@@ -26,7 +26,8 @@
     "document-register-element": "^0.4.3"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "babel-cli": "^6.26.0",
+    "grunt": "^1.0.3",
     "grunt-exec": "^0.4.6"
   }
 }
